@@ -1,0 +1,13 @@
+*.rpyc
+*.pyc
+
+/game/saves/
+/game/cache/
+
+.DS_Store
+Thumbs.db
+
+/saves/
+/errors.txt
+/traceback.txt
+log.txt

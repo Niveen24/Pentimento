@@ -1,0 +1,1 @@
+#image bg_NAME = "path.png"
